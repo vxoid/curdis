@@ -1,7 +1,8 @@
 # Curdis v0.1.0
 This is a library wrapper around discord API using http and websocket
 
-## Update Logs
+## Changelog
+- moved all files from `bot` folder to the main
 
 ## Example
 ```go

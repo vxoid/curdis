@@ -1,4 +1,4 @@
-package bot
+package curdis
 
 const API string = "https://discord.com/api/v9"
 const WS_API string = "wss://gateway.discord.gg"
